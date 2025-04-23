@@ -4,7 +4,7 @@
 
 TaleOS is the AI operating system for storytellers, game masters, and worldbuilders. This is the front-end website built using React.
 
-## 🌐 Live Preview (optional)
+## 🌐 Live Preview
 Coming soon...
 
 ## 📁 Project Structure
@@ -27,7 +27,7 @@ Coming soon...
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/taleos.git
+   git clone https://github.com/taleosai/taleos.git
    cd taleos
    ```
 
