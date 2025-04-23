@@ -9,7 +9,7 @@ TaleOS is the AI operating system for storytellers, game masters, and worldbuild
 - Website: https://taleos.xyz
 - Twitter: https://x.com/TaleOSAI
 
-## 🌐 Live Preview
+## 💻 Live Preview
 Coming soon...
 
 ## 📁 Project Structure
