@@ -4,6 +4,8 @@
 
 TaleOS is the AI operating system for storytellers, game masters, and worldbuilders. This is the front-end website built using React.
 
+![photo_2025-04-19_19-58-27](https://github.com/user-attachments/assets/865fef69-2fc8-49b0-8caf-6600a0cba87c)
+
 ## 🌐 Website & Twitter
 
 - Website: https://taleos.xyz
